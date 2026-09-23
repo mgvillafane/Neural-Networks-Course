@@ -35,13 +35,3 @@ To run the notebooks, you will typically need:
 ## Notes
 
 This project is intended for educational and personal learning purposes.
-
-## GitHub setup
-
-After creating a new repository on GitHub, you can connect this folder with:
-
-```bash
-git remote add origin https://github.com/<your-username>/<your-repository>.git
-git branch -M main
-git push -u origin main
-```
